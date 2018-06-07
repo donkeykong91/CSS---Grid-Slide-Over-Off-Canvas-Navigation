@@ -323,6 +323,7 @@ CSS Grid layout for wider screens, when browser supports grid:
 			position: relative;
 			grid-column: 1;
 			grid-row: 1/5;
+			width: 12em;
 		}
 
 		.cards {
