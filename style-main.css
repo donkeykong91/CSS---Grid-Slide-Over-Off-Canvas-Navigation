@@ -330,6 +330,13 @@ CSS Grid layout for wider screens, when browser supports grid:
 			flex-direction: column;
 		}
 
+		.trigger {
+			display: block;
+			position: fixed;
+			top: 1.5em;
+			left: 14.5em;
+		}
+
 		.cards {
 			margin: 0 auto;
 			padding: 1em;
